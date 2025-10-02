@@ -74,7 +74,5 @@ src/
 
 <br/>
 
-## Author
-[eastend-street](https://github.com/eastend-street)
 
 <br/>
