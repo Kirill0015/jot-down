@@ -7,9 +7,6 @@
 
 Jot down is a bookmark and note web service📗 You can save your favorite websites or articles to Jot down. Also, you can write a note with your bookmarks.  
 <br/>
-Website: &nbsp; https://jotdown.netlify.app
-
-
 [![home-jotdown](https://user-images.githubusercontent.com/43656115/76158377-2f36c400-60ca-11ea-99e8-909b6363e555.png)](https://jotdown.netlify.app)
 
 <br/>
